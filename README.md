@@ -26,7 +26,7 @@ Our bioinformatics pipeline is developed with R 4.3.1 (2023-06-16), running unde
 The analysis presented in our publication requires packages to be installed, and we refer to the following document about the R session info.
 
 Contact information
-Comments and bug reports are welcome, please email: Stian Tornaas (stian.tornaas@uib.no)
+Comments and bug reports are welcome, please email: Dimitrios Kleftogiannis (dimitrios.kleftogiannis@uib.no)
 
 For questions regarding the data and the IMC panel design please email Stian Tornaas (Stian.Tornaas@uib.no)
 
