@@ -10,17 +10,17 @@ We provide a bioinformatics pipeline that allows users to:
 - cluster phenotypical similar cells
 - perform basic exploratory data analysis
 - generate heatmaps and t-SNE plots
-- visualise the spatial localization of cells in tissue
+- visualize the spatial localization of cells in tissue
 
 Publication
-Title: Development of a high dimensional imaging mass cytometry panel to investigate spatial organization of tissue microenvironment in formalin-fixed archival clinical tissues
+Title: Development of a high dimensional imaging mass cytometry panel to investigate the spatial organization of tissue microenvironment in formalin-fixed archival clinical tissues
 
 Journal: The paper is submitted to Cell Reports Methods
 
 Published: pre-print available at bioRxiv here: https://doi.org/10.1101/2022.05.12.491175
 
-Dependencies and System Requirements
-Our bioinformatics pipeline is developed with R 4.3.1 (2023-06-16), running under: Windows 10
+Dependencies and System Requirements:
+Our bioinformatics pipeline is developed with R 4.3.1 (2023-06-16), running under Windows 10
 
 The analysis presented in our publication requires packages to be installed, and we refer to the following document about the R session info.
 
@@ -31,7 +31,7 @@ For questions regarding the data and the IMC panel design please email Stian Tor
 
 We are also interested to know about how you have used our source code, including any improvements that you have implemented.
 
-You are free to modify, extend or distribute our source code, as long as our copyright notice remains unchanged and included in its entirety.
+You are free to modify, extend, or distribute our source code, as long as our copyright notice remains unchanged and included in its entirety.
 
 License
 This project is licensed under the MIT License.
