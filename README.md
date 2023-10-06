@@ -19,7 +19,8 @@ Journal: The paper is submitted to Cell Reports Methods
 
 Published: pre-print available at bioRxiv here: https://doi.org/10.1101/2022.05.12.491175
 
-Dependencies and System Requirements:
+Dependencies and System Requirements
+
 Our bioinformatics pipeline is developed with R 4.3.1 (2023-06-16), running under Windows 10
 
 The analysis presented in our publication requires packages to be installed, and we refer to the following document about the R session info.
